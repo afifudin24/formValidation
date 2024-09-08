@@ -29,7 +29,7 @@
   <li>Clone the repository:</li>
 
 <pre>
-<code>git clone https://github.com/yourusername/your-repo-name.git</code>
+<code>git clone https://github.com/afifudin24/formValidation.git</code>
 </pre>
 
   <li>Navigate to the project directory:</li>
